@@ -1,0 +1,13 @@
+[package]
+name = "sasha"
+version = "0.1.7"
+edition = "2021"
+description = "A Linux-first music player in the spirit of AIMP (Rust core, Qt 6 / QML interface)"
+build = "build.rs"
+
+# No crate dependencies: tags, covers, the play queue and the spectrum are all
+# std-only Rust, and the Qt 6 host in cpp/ is compiled by build.rs.
+[dependencies]
+
+[profile.release]
+opt-level = 3
