@@ -1,7 +1,7 @@
-# sasha
-
-
 # Sasha
+
+<img width="256" height="256" alt="sasha" src="https://github.com/user-attachments/assets/70827222-2938-48e7-b26e-df9a5c5ad08b" />
+
 
 **A Music player for Linux, Similar to AIMP, but light on features. It's a non-BS music player with some good features.** A Rust core with a Qt 6 / QML
 interface: a frosted-glass player panel on top, your library underneath, sorted into
@@ -21,6 +21,11 @@ category tabs, with cover art read from your tags.
 | Ctrl+Right / Ctrl+Left | Next / previous |
 | Ctrl+F | Search |
 | Esc (in search) | Clear search |
+
+Previews: (Know that appearances may differ, as it follows your system's accent color, which can be disabled in settings)
+<img width="1688" height="1189" alt="image" src="https://github.com/user-attachments/assets/4ceb46c7-1960-4ae7-8e55-e04cc374af00" />
+<img width="1697" height="1196" alt="image" src="https://github.com/user-attachments/assets/eee35b1e-d45b-4bf2-a882-0ef6b8745212" />
+<img width="1691" height="1193" alt="image" src="https://github.com/user-attachments/assets/2107ccaf-a049-4062-aaf9-0f2e58b41dae" />
 
 ## What's new in 0.1.7
 
